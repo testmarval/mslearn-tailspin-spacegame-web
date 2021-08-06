@@ -23,7 +23,7 @@ resources :
 
     type : github
 
-    endpoint : MyProject
+    endpoint : test
 
     name : ILiuACR/shared-azure-pipeline-templates
 
