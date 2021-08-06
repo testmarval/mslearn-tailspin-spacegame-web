@@ -19,13 +19,13 @@ resources :
 
   #Required
 
-  - repository : azureSharedTemplates
+  - repository : testmarval
 
     type : github
 
-    endpoint : test
+    endpoint : mslearn-tailspin-spacegame-web
 
-    name : ILiuACR/shared-azure-pipeline-templates
+    name : ssathyan0689/testmarval.mslearn-tailspin-spacegame-web
 
     branch : master
 
