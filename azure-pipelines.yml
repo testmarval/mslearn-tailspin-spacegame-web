@@ -23,7 +23,7 @@ resources :
 
     type : github
 
-    endpoint :testmarval
+    endpoint : testmarval
 
     name : ILiuACR/shared-azure-pipeline-templates
 
